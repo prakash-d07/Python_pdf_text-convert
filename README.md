@@ -1,4 +1,4 @@
-#Text_Extractor
+## Text_Extractor
 
 ## Python project of extracting text from pdf file 
 
